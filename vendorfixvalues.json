@@ -1,11 +1,11 @@
 [
   {
-    "VendorNum": "70098",
-    "MandantID": "wde",
-    "MainAccount": "6855",
-    "TaxCode": "19RC - 19RC",
-    "Channel": "",
-    "CostCenter": "4A10E1",
-    "Reviewer": "AFC"
+    "FilterVendorNum": "70098",
+    "FilterMandantID": "wde",
+    "FixMainAccount": "6855",
+    "FixTaxCode": "19RC - 19RC",
+    "FixChannel": "",
+    "FixCostCenter": "4A10E1",
+    "FixReviewer": "AFC"
   }
 ]
