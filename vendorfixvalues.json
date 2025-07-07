@@ -1,9 +1,7 @@
 [
   {
     "FilterVendorNum": "70098",
-    "FilterMandantID": "wde",
     "FixMainAccount": "6855",
-    "FixTaxCode": "19RC - 19RC",
     "FixChannel": "",
     "FixCostCenter": "4A10E1",
     "FixReviewer": "AFC"
