@@ -1,9 +1,539 @@
+
 [
   {
+    "FilterVendor": "Adyen N.V.",
     "FilterVendorNum": "70098",
     "FixMainAccount": "6855",
-    "FixChannel": "",
     "FixCostCenter": "4A10E1",
-    "FixReviewer": "AFC"
+    "FixChannel": "",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "ALBA NECKAR-ALB GMBH&CO.KG",
+    "FilterVendorNum": "70023",
+    "FixMainAccount": "6859",
+    "FixCostCenter": "4A15E3",
+    "FixChannel": "OUTWOMT",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "ALLIANZ VERSICHERUNG- AG",
+    "FilterVendorNum": "70038",
+    "FixMainAccount": "6520",
+    "FixCostCenter": "4A11A2",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "AMERICAN EXPRESS PAYMENTS EUROPE",
+    "FilterVendorNum": "70172",
+    "FixMainAccount": "6855",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "AOK BADEN-WÜRTTEMBERG",
+    "FilterVendorNum": "70412",
+    "FixMainAccount": "6436",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "AOK BAYERN",
+    "FilterVendorNum": "70405",
+    "FixMainAccount": "6436",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "AOK HESSEN",
+    "FilterVendorNum": "70406",
+    "FixMainAccount": "6436",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "AOK NORDOST",
+    "FilterVendorNum": "70407",
+    "FixMainAccount": "6436",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "AOK NORDWEST",
+    "FilterVendorNum": "70400",
+    "FixMainAccount": "6436",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "AOK RHEINLAND HAMBURG",
+    "FilterVendorNum": "70408",
+    "FixMainAccount": "6436",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "AOK SACHSEN-ANHALT",
+    "FilterVendorNum": "70409",
+    "FixMainAccount": "6436",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "Audi BKK",
+    "FilterVendorNum": "70419",
+    "FixMainAccount": "6436",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "BAHN BKK",
+    "FilterVendorNum": "70404",
+    "FixMainAccount": "6436",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "BARMER",
+    "FilterVendorNum": "70411",
+    "FixMainAccount": "6436",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "BERLIN RECYCLING GMBH",
+    "FilterVendorNum": "70025",
+    "FixMainAccount": "6859",
+    "FixCostCenter": "4A15E2",
+    "FixChannel": "DOSWOBE",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "BERLINER HAUSREININGUNGSSERVICE  NECIA  AKYURT",
+    "FilterVendorNum": "70063",
+    "FixMainAccount": "6330",
+    "FixCostCenter": "4A15E2",
+    "FixChannel": "DOSWOBE",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "BEYERSDORF DIENSTLEISTUNGEN GMBH & CO. KG",
+    "FilterVendorNum": "70212",
+    "FixMainAccount": "6330",
+    "FixCostCenter": "4A15E3",
+    "FixChannel": "OUTWONM",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "CERES GETRÄNKE",
+    "FilterVendorNum": "70004",
+    "FixMainAccount": "6630",
+    "FixCostCenter": "4A15E2",
+    "FixChannel": "DOSWOHA",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "COMPILION  AG",
+    "FilterVendorNum": "70202",
+    "FixMainAccount": "",
+    "FixCostCenter": "4A12A1",
+    "FixChannel": "",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "CS CLEANING SOLUTION E.K.",
+    "FilterVendorNum": "70174",
+    "FixMainAccount": "6330",
+    "FixCostCenter": "4A15E3",
+    "FixChannel": "OUTWOMT",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "DAK-GESUNDHEIT",
+    "FilterVendorNum": "70403",
+    "FixMainAccount": "6436",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "DEUTSCHE BUNDESBANK",
+    "FilterVendorNum": "70016",
+    "FixMainAccount": "6855",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "DIE SCHMUTZJÄGER UG",
+    "FilterVendorNum": "70032",
+    "FixMainAccount": "6330",
+    "FixCostCenter": "4A15E3",
+    "FixChannel": "OUTWOWE",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "DIGITAL RETEX s.r.l.",
+    "FilterVendorNum": "70209",
+    "FixMainAccount": "6495",
+    "FixCostCenter": "4A12A1",
+    "FixChannel": "",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "EFSTA IT SERVICE GmbH",
+    "FilterVendorNum": "70244",
+    "FixMainAccount": "6495",
+    "FixCostCenter": "4A12A1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "GBZ GETRÄNKE-BLITZZUSTELLER GMBH",
+    "FilterVendorNum": "70005",
+    "FixMainAccount": "6630",
+    "FixCostCenter": "4A15A1",
+    "FixChannel": "",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "GEMA",
+    "FilterVendorNum": "70026",
+    "FixMainAccount": "6420",
+    "FixCostCenter": "4A15E2",
+    "FixChannel": "",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "Gi Group Deutschland GmbH",
+    "FilterVendorNum": "70384",
+    "FixMainAccount": "6303",
+    "FixCostCenter": "4A11A2",
+    "FixChannel": "",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "GLOBAL BLUE DEUTSCHLAND GMBH",
+    "FilterVendorNum": "70017",
+    "FixMainAccount": "6855",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "GÜTECLEAN GEBAUDEREINIGUNGS GMBH",
+    "FilterVendorNum": "70143",
+    "FixMainAccount": "6330",
+    "FixCostCenter": "4A15A1",
+    "FixChannel": "",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "HKL BAUMASCHINEN GMBH",
+    "FilterVendorNum": "70035",
+    "FixMainAccount": "6310",
+    "FixCostCenter": "4A15E3",
+    "FixChannel": "OUTWOWE",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "HR FACTORY GmbH",
+    "FilterVendorNum": "70355",
+    "FixMainAccount": "6303",
+    "FixCostCenter": "4A11A2",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "I&Y GEBÄUDEREINIGUNG GMBH",
+    "FilterVendorNum": "70050",
+    "FixMainAccount": "6330",
+    "FixCostCenter": "4A15E2",
+    "FixChannel": "DOSWOFR",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "IGR SERVICE_IGBALE IDRIZI",
+    "FilterVendorNum": "70053",
+    "FixMainAccount": "6330",
+    "FixCostCenter": "4A15E2",
+    "FixChannel": "DOSWOHA",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "IKK CLASSIC",
+    "FilterVendorNum": "70399",
+    "FixMainAccount": "6436",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "IONOS SE",
+    "FilterVendorNum": "70047",
+    "FixMainAccount": "6810",
+    "FixCostCenter": "4A12A1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "KARSTEN SCHMIDT",
+    "FilterVendorNum": "70366",
+    "FixMainAccount": "",
+    "FixCostCenter": "4A15E2",
+    "FixChannel": "DOSWOSY",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "KNAPPSCHAFT BAHN SEE",
+    "FilterVendorNum": "70167",
+    "FixMainAccount": "6436",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "LODENFREY-PARKGMBH",
+    "FilterVendorNum": "70204",
+    "FixMainAccount": "",
+    "FixCostCenter": "4A15A1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "LOOMIS OESTERREICH GMBH",
+    "FilterVendorNum": "70198",
+    "FixMainAccount": "6855",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "OUTWOPD",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "LUITPOLDBLOCK GBR",
+    "FilterVendorNum": "70062",
+    "FixMainAccount": "",
+    "FixCostCenter": "4A15E2",
+    "FixChannel": "DOSWOMU",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "M NET TELEKOMMUNIKATIONS GMBH",
+    "FilterVendorNum": "70249",
+    "FixMainAccount": "6810",
+    "FixCostCenter": "4A12A1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "MAY & CO. ASSET MANAGEMENT GMBH",
+    "FilterVendorNum": "70184",
+    "FixMainAccount": "",
+    "FixCostCenter": "4A15E2",
+    "FixChannel": "DOSWOHA",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "NEUMUENSTER DESIGNER OUTLET GMBH",
+    "FilterVendorNum": "70009",
+    "FixMainAccount": "",
+    "FixCostCenter": "4A15E3",
+    "FixChannel": "OUTWONM",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "OUTLET CENTRE PARNDORF GMBH",
+    "FilterVendorNum": "70196",
+    "FixMainAccount": "",
+    "FixCostCenter": "4A15E3",
+    "FixChannel": "OUTWOPD",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "OUTLET CITY AG",
+    "FilterVendorNum": "70335",
+    "FixMainAccount": "",
+    "FixCostCenter": "4A15E3",
+    "FixChannel": "OUTWOMT",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "ÖWD CLEANING SERVICES",
+    "FilterVendorNum": "70191",
+    "FixMainAccount": "6330",
+    "FixCostCenter": "4A15E3",
+    "FixChannel": "OUTWOPD",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "PETER & ZINA PISTOR GbR",
+    "FilterVendorNum": "70185",
+    "FixMainAccount": "",
+    "FixCostCenter": "4A15E2",
+    "FixChannel": "DOSWOBE",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "PROSEGUR CASH SERVICES GERMANY GMBH",
+    "FilterVendorNum": "70011",
+    "FixMainAccount": "6855",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "RA HEINRICH KLENK (DR. HEINZ SCHUMANN)",
+    "FilterVendorNum": "70182",
+    "FixMainAccount": "",
+    "FixCostCenter": "4A15E2",
+    "FixChannel": "DOSWOBE",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "REAL I.S. AG",
+    "FilterVendorNum": "70213",
+    "FixMainAccount": "",
+    "FixCostCenter": "4A15E2",
+    "FixChannel": "DOSWODU",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "RECYCLING SERVICE PEY",
+    "FilterVendorNum": "70012",
+    "FixMainAccount": "6859",
+    "FixCostCenter": "4A15E2",
+    "FixChannel": "DOSWOHA",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "SECURA GEBÄUDEMANAGEMENT GMBH",
+    "FilterVendorNum": "70068",
+    "FixMainAccount": "6330",
+    "FixCostCenter": "4A15E3",
+    "FixChannel": "OUTWOIG",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "SPATH PRINTWARE + SERVICE GMBH & CO.KG",
+    "FilterVendorNum": "70018",
+    "FixMainAccount": "6815",
+    "FixCostCenter": "",
+    "FixChannel": "",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "SPIEGELBLANK REINIGUNGSUNTERNEHMEN",
+    "FilterVendorNum": "70060",
+    "FixMainAccount": "6330",
+    "FixCostCenter": "4A15E2",
+    "FixChannel": "",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "STUDITEMPS GMBH",
+    "FilterVendorNum": "70027",
+    "FixMainAccount": "6303",
+    "FixCostCenter": "4A11A2",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "TAMIGO APS",
+    "FilterVendorNum": "70299",
+    "FixMainAccount": "6495",
+    "FixCostCenter": "4A11A2",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "TELEKOM DEUTSCHLAND GMBH",
+    "FilterVendorNum": "70019",
+    "FixMainAccount": "6805",
+    "FixCostCenter": "4A12A1",
+    "FixChannel": "",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "THE FLOWER COMPANY GMBH",
+    "FilterVendorNum": "70039",
+    "FixMainAccount": "6630",
+    "FixCostCenter": "4A15E2",
+    "FixChannel": "DOSWOMU",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "TISHMAN SPEYER",
+    "FilterVendorNum": "70076",
+    "FixMainAccount": "",
+    "FixCostCenter": "4A15E2",
+    "FixChannel": "DOSWOFR",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "TK TECHNIKER KRANKENKASSE",
+    "FilterVendorNum": "70273",
+    "FixMainAccount": "6436",
+    "FixCostCenter": "4A10E1",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "UNITED PARCEL SERVICE UPS",
+    "FilterVendorNum": "70037",
+    "FixMainAccount": "6740",
+    "FixCostCenter": "4A15E2",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "VR BAVARIA GMBH",
+    "FilterVendorNum": "70049",
+    "FixMainAccount": "",
+    "FixCostCenter": "4A15E3",
+    "FixChannel": "OUTWOIG",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "VR FRANCONIA GMBH",
+    "FilterVendorNum": "70175",
+    "FixMainAccount": "",
+    "FixCostCenter": "4A15E3",
+    "FixChannel": "OUTWOWE",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "VW LEASING GMBH",
+    "FilterVendorNum": "70043",
+    "FixMainAccount": "6560",
+    "FixCostCenter": "4A11A2",
+    "FixChannel": "AGE42141",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "WNT TELECOMMUNICATION GMBH",
+    "FilterVendorNum": "70223",
+    "FixMainAccount": "6805",
+    "FixCostCenter": "4A12A1",
+    "FixChannel": "OUTWOPD",
+    "FixReviewer": ""
+  },
+  {
+    "FilterVendor": "ZEPPELIN RENTAL GMBH",
+    "FilterVendorNum": "70014",
+    "FixMainAccount": "6310",
+    "FixCostCenter": "4A15E3",
+    "FixChannel": "OUTWOIG",
+    "FixReviewer": ""
   }
 ]
